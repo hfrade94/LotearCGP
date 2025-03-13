@@ -18,8 +18,8 @@ Este é um plugin para o QGIS que facilita a criação de loteamentos seguindo o
    - Vá para **"Plugins"** > **"Gerenciar e Instalar complementos..."**.
    - Na aba **"Opções"** > **"Repositórios de Complementos"** > **"Adicionar..."** e adicione o repositório com o link:
      ```
-     Nome: Lotear CGP
-     URL: https://raw.githubusercontent.com/hfrade94/Lotear-CGP/refs/heads/main/plugins.xml
+     Nome: LotearCGP
+     URL: https://raw.githubusercontent.com/hfrade94/LotearCGP/refs/heads/main/plugins.xml
      ```
 2. Instale o plugin:
    - Pesquise por **"Lotear CGP"** na lista de plugins.
@@ -31,6 +31,8 @@ Este é um plugin para o QGIS que facilita a criação de loteamentos seguindo o
 2. Clique no ícone do plugin para abrir a interface.
 3. Selecione as camadas e o sistema de referência, de acordo com as descrições de cada menu da interface do plugin.
 4. Ao clicar em **"Executar"** o plugin cria 3 camadas temporarias: cod_lote, quadras, lotes, contendo os campos com os dados para cadastro de nova inscrição dos imóveis.
+
+**O projeto de modelo esta disponivel para download nos arquivos deste repositorio.**
 
 ## Requisitos
 
