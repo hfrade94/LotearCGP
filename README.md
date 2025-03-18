@@ -1,11 +1,11 @@
 # Plugin Lotear CGP para QGIS
 
-Este é um plugin para o QGIS que facilita a criação de loteamentos seguindo os padrões da **CAGEPA (Companhia de Água e Esgotos da Paraíba)**. O plugin foi desenvolvido em Python e pode ser instalado diretamente no QGIS.
+Este é um plugin para o QGIS que facilita a criação de loteamentos seguindo os padrões da **CGP**. O plugin foi desenvolvido em Python e pode ser instalado diretamente no QGIS.
 
 ## Funcionalidades
 
 - Criação automática de lotes e quadras a partir de um modelo pré-definido.
-- Conformidade com os padrões técnicos da CAGEPA.
+- Conformidade com os padrões técnicos da CGP.
 - Personalizado de acordo com o projeto feito no MODEL BUILDER, para atender às necessidades específicas do projeto.
 
 ## Tela do plugin
